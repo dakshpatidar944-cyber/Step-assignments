@@ -2,7 +2,7 @@
 // Write a program that reads numbers from the user until a non-positive number is entered. The program should then display the total of all the positive numbers entered.
 import java.util.Scanner;
 
-public class P11 {
+public class p11 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

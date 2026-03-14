@@ -2,7 +2,7 @@
 // Write a program that reads numbers from the user until the user enters 0. The program should then display the total of all the numbers entered (excluding the 0).
 import java.util.Scanner;
 
-public class P10 {
+public class p10 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

@@ -1,16 +1,15 @@
-
-//package level-1;
+package level2;
 import java.util.Scanner;
 
-public class p1 {
+public class P3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter number: ");
         int number = sc.nextInt();
 
-        boolean result = (number % 5 == 0);
-
-        System.out.println("Is the number " + number + " divisible by 5? " + result);
+        for (int i = 6; i <= 9; i++) {
+            System.out.println(number + " * " + i + " = " + (number * i));
+        }
     }
 }

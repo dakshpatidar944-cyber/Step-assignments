@@ -2,7 +2,7 @@
 // Write a program to calculate the sum of first n natural numbers using both loop and formula.
 import java.util.Scanner;
 
-public class P12 {
+public class p12 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
